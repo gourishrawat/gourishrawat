@@ -1,8 +1,6 @@
 ![Full-Stack Developer](https://media.licdn.com/dms/image/D5616AQHpN-sQURruKg/profile-displaybackgroundimage-shrink_350_1400/0/1677588596515?e=1684972800&v=beta&t=VqGbQTBmlreQyVxjnY0rBn-1qoc9pO9kxYmfhaCdeEk)
 ### Hi there 👋, I'm Gourish Rawat
 #### Full-Stack Developer
-![Full-Stack Developer](https://media.licdn.com/dms/image/D5616AQHpN-sQURruKg/profile-displaybackgroundimage-shrink_350_1400/0/1677588596515?e=1684972800&v=beta&t=VqGbQTBmlreQyVxjnY0rBn-1qoc9pO9kxYmfhaCdeEk)
-
 Hello, 
 I'm Gourish . I m an energetic, ambitious person who has developed a mature and responsible approach to any task that I undertake, or situation that I am presented with. As a graduate with one years experience in Django,fast API and Web Development , I am excellent in working with others to achieve a certain objective on time and with excellence. I have solid work experience in front-end and back-end technologies to increase the overall efficiency of operations. I am currently looking for an opportunity to utilise my technical skills in a challenging working environment and become a valuable asset to the organisation that I work for.
 
