@@ -1,3 +1,4 @@
+![Full-Stack Developer](https://media.licdn.com/dms/image/D5616AQHpN-sQURruKg/profile-displaybackgroundimage-shrink_350_1400/0/1677588596515?e=1684972800&v=beta&t=VqGbQTBmlreQyVxjnY0rBn-1qoc9pO9kxYmfhaCdeEk)
 ### Hi there 👋, I'm Gourish Rawat
 #### Full-Stack Developer
 ![Full-Stack Developer](https://media.licdn.com/dms/image/D5616AQHpN-sQURruKg/profile-displaybackgroundimage-shrink_350_1400/0/1677588596515?e=1684972800&v=beta&t=VqGbQTBmlreQyVxjnY0rBn-1qoc9pO9kxYmfhaCdeEk)
